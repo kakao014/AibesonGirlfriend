@@ -1,3 +1,4 @@
+requests==2.28.1
 steamship_langchain==0.0.21rc0
 pytimeparse
 termcolor
